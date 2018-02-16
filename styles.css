@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 60vh;
+    text-align: center;
+}
+.title {
+    color: #777;
+    text-decoration: underline; 
+    padding-bottom: 15px;
+}
+.submit-btn {
+    display: block;
+    margin: 15px auto;
+    cursor: pointer;
+}
